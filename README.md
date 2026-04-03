@@ -277,13 +277,4 @@ If you need to set it up:
 3. Put them in the `.env` file
 
 ---
-
-## ❤️ Made With Love
-
-This portfolio was built with care to help Chandrika showcase her skills and land her dream job in Product Management or Business Development!
-
-**Good luck with the interviews, Chandrika! You've got this! 🚀**
-
----
-
 *Last updated: January 2026*
